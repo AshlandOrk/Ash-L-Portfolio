@@ -16,12 +16,19 @@ Core Design Pillars:
 https://www.bioinspiredtextiles.com/pillars
 
 Sections:
-Hero Section
+About Me (Hero Section)
 
+- my background
 - my skills
 - my core values (pillars)
 
-Career Section
-Projects
-Gallery
-Contact Info
+Career Section:
+
+- Work Experience
+  Projects
+  -Recipe Page Website
+  Gallery
+  -Illustration
+  -UI Design
+- -Manufacturing Skills
+  Contact Info
